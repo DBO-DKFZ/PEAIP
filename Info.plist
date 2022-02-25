@@ -1,0 +1,2 @@
+<key>NSFaceIDUsageDescription</key>
+<string>This app will optionally use Face ID or Touch ID to save login</string>
