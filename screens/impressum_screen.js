@@ -13,11 +13,7 @@ function ImpressumScreen({ navigation }) {
   return (
     <Text style={{fontSize: 15, textAlign: 'left', marginTop: 20, marginLeft: 20}}> 
 Verantwortlich: {"\n"}
-Dr. med. Titus Brinker{"\n"}
-Deutsches Krebsforschungszentrum – DKFZ{"\n"}
-Digitale Biomarker für die Onkologie{"\n"}
-Im Neuenheimer Feld 280{"\n"}
-69120 Heidelberg{"\n"}
+Dr. med. Karl Muster{"\n"}
 
  {"\n"}
 
